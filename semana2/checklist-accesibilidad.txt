@@ -5,31 +5,31 @@ Fecha: 27/04/2026
 Nombre de la rama: juan_maquilon
 
 1. ¿El formulario tiene un título claro?
-Respuesta:Sí, el formulario cuenta con un título visible que indica claramente su propósito.
+Respuesta: Si, el formulario cuenta con un titulo visible que indica claramente su proposito
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:Sí, se incluye una breve explicación sobre el uso de la información proporcionada por el usuario.
+Respuesta: Si. se incluye una breve explicación sobre el uso de la información proporcionada por el usuario
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:Sí, todos los campos tienen etiquetas visibles que facilitan su comprensión.
+Respuesta: Si, todos los campos tienen etiquetas visibles que facilitan su compresion
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:Sí, se utiliza un lenguaje claro, sencillo y fácil de entender para cualquier usuario.
+Respuesta: Si, se utiliza un lenguaje claro , sencillo y facil de entender para cualquier usuario
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:Sí, solo se solicitan datos relevantes para el objetivo del formulario.
+Respuesta: Si, solo se solicitan datos relevantes para el objetivo del formulario 
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:Sí, se incluye un campo amplio que permite al usuario expresar su propuesta o mensaje sin limitaciones.
+Respuesta: Si, Se incluyen un campo amplio que permite al usuario expresar su propuesta o mensaje sin limitaciones
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:Sí, se incluye una casilla donde el usuario acepta el uso de sus datos.
+Respuesta: Si, se incluye una casilla donde el usuario acepta el uso de sus datos
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:Sí, el botón tiene un texto claro como "Enviar" o "Enviar propuesta".
+Respuesta: Si, el boton tiene un texto claro "enviar"
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:Sí, el diseño tiene buen contraste, tamaño de letra adecuado y es fácil de leer.
+Respuesta: Si, el diseño tiene buen contraste, tamaño de letra adecuado y es facil de leer
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:Se podría mejorar agregando soporte para lectores de pantalla, mejorando el contraste de colores y optimizando la visualización en dispositivos móviles.
+Respuesta: Se podria mejorar agregando soporte para lecciones de pantalla, mejorando el contarste de colores y optimizando la visualizacion en dispositivos moviles
